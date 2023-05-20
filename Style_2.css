@@ -1,0 +1,105 @@
+﻿#questions {
+   width: 50%;
+   margin: 0 auto;
+}
+
+.pInForm{
+    text-align: center;
+}
+
+#buttons {
+    text-align: center;
+}
+
+.pInDiv {
+    background: rgba(255, 255, 255, 0.6);
+}
+
+.imgInDiv {
+    width: 90%;
+    height: auto;
+}
+
+#AlienIsolation {
+    display: none;
+    margin: 5% auto;
+    text-align: center;
+}
+
+#KerbalSpaceProgram {
+    display: none;
+    margin: 5% auto;
+    text-align: center;
+}
+
+#EVEOnline {
+    display: none;
+    margin: 5% auto;
+    text-align: center;
+}
+
+#DyingLight {
+    display: none;
+    margin: 5% auto;
+    text-align: center;
+}
+
+#ResidentEvil {
+    display: none;
+    margin: 5% auto;
+    text-align: center;
+}
+
+#FarCry {
+    display: none;
+    margin: 5% auto;
+    text-align: center;
+}
+
+#Mafia {
+    display: none;
+    margin: 5% auto;
+    text-align: center;
+}
+
+#RemnantFromTheAshes {
+    display: none;
+    margin: 5% auto;
+    text-align: center;
+}
+
+#Paladins {
+    display: none;
+    margin: 5% auto;
+    text-align: center;
+}
+
+#Skyrim {
+    display: none;
+    margin: 5% auto;
+    text-align: center;
+}
+
+#Witcher {
+    display: none;
+    margin: 5% auto;
+    text-align: center;
+}
+
+#Portal {
+    display: none;
+    margin: 5% auto;
+    text-align: center;
+}
+
+#DragonAge {
+    display: none;
+    margin: 5% auto;
+    text-align: center;
+}
+
+#Trackmania {
+    display: none;
+    margin: 5% auto;
+    text-align: center;
+}
